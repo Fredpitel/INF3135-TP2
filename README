@@ -1,0 +1,13 @@
+Merci d'utiliser le programme tp2 pour combler vos besoins de triage de fichiers texte!
+
+Ce programme est muni de son propre makefile, il vous suffit donc d'entrer la commande "make" dans bash pour le compiler.
+
+Ensuite vous pouvez l'utiliser en entrant la commande "./tp2" suivi du nom du fichier texte que vous voulez trier.
+
+Example: ./tp2 mots.txt
+
+Pour obtenir un fichier statistique à la fin de l'exécution, il vous suffit d'entrer l'option "-S" suivi du nom que vous voulez donner au fichier des statistiques à la fin de la commande d'exécution du programme.
+
+Example: ./tp2 mots.txt -S stats.txt
+
+Bon triage!
